@@ -1,0 +1,51 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" fill="#E5E5E5"/>
+<g id="Main Page" clip-path="url(#clip0_297016_823)">
+<rect width="1440" height="3468" transform="translate(-376 -1736)" fill="white"/>
+<g id="Section 2">
+<rect id="Light-bg" x="-376" y="-600" width="1440" height="780" fill="#F4F4FD"/>
+<g id="Team Card 1" filter="url(#filter0_ddd_297016_823)">
+<path d="M-220 -368H44V56C44 58.2091 42.2091 60 40 60H-216C-218.209 60 -220 58.2091 -220 56V-368Z" fill="white"/>
+<g id="Card Content">
+<g id="Traling Icons">
+<g id="Ellipse">
+<path id="Ellipse_2" d="M28 7.99994C28 13.5228 25.7614 18.5228 22.1421 22.1421C18.5228 25.7614 13.5228 27.9999 8 27.9999C2.47715 27.9999 -2.52285 25.7614 -6.14214 22.1421C-9.76142 18.5228 -12 13.5228 -12 7.99994C-12 2.47709 -9.76142 -2.52291 -6.14214 -6.1422C-2.52285 -9.76148 2.47715 -12.0001 8 -12.0001C13.5228 -12.0001 18.5228 -9.76148 22.1421 -6.1422C25.7614 -2.52291 28 2.47709 28 7.99994Z" fill="#4D5AE5"/>
+<g id="linkedin 1" clip-path="url(#clip1_297016_823)">
+<path id="Vector" d="M15.9961 16V15.9993H16.0001V10.1313C16.0001 7.26065 15.3821 5.04932 12.0261 5.04932C10.4128 5.04932 9.33009 5.93465 8.88809 6.77398H8.84143V5.31732H5.65942V15.9993H8.97276V10.71C8.97276 9.31732 9.23676 7.97065 10.9614 7.97065C12.6608 7.97065 12.6861 9.55998 12.6861 10.7993V16H15.9961Z" fill="#F4F4FD"/>
+<path id="Vector_2" d="M0.264038 5.31793H3.58137V15.9999H0.264038V5.31793Z" fill="#F4F4FD"/>
+<path id="Vector_3" d="M1.92139 -6.10352e-05C0.860728 -6.10352e-05 6.10352e-05 0.860606 6.10352e-05 1.92127C6.10352e-05 2.98194 0.860728 3.86061 1.92139 3.86061C2.98206 3.86061 3.84273 2.98194 3.84273 1.92127C3.84206 0.860606 2.98139 -6.10352e-05 1.92139 -6.10352e-05V-6.10352e-05Z" fill="#F4F4FD"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_ddd_297016_823" x="-226" y="-373" width="276" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.180392 0 0 0 0 0.184314 0 0 0 0 0.258824 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_297016_823"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.180392 0 0 0 0 0.184314 0 0 0 0 0.258824 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_297016_823" result="effect2_dropShadow_297016_823"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.180392 0 0 0 0 0.184314 0 0 0 0 0.258824 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="effect2_dropShadow_297016_823" result="effect3_dropShadow_297016_823"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow_297016_823" result="shape"/>
+</filter>
+<clipPath id="clip0_297016_823">
+<rect width="1440" height="3468" fill="white" transform="translate(-376 -1736)"/>
+</clipPath>
+<clipPath id="clip1_297016_823">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
